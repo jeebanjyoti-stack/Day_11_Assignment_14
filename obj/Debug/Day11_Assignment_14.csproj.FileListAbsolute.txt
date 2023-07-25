@@ -1,0 +1,8 @@
+D:\C# Programme\Day11\Day11_Assignment_14\Day11_Assignment_14\bin\Debug\Day11_Assignment_14.exe.config
+D:\C# Programme\Day11\Day11_Assignment_14\Day11_Assignment_14\bin\Debug\Day11_Assignment_14.exe
+D:\C# Programme\Day11\Day11_Assignment_14\Day11_Assignment_14\bin\Debug\Day11_Assignment_14.pdb
+D:\C# Programme\Day11\Day11_Assignment_14\Day11_Assignment_14\obj\Debug\Day11_Assignment_14.csproj.AssemblyReference.cache
+D:\C# Programme\Day11\Day11_Assignment_14\Day11_Assignment_14\obj\Debug\Day11_Assignment_14.csproj.SuggestedBindingRedirects.cache
+D:\C# Programme\Day11\Day11_Assignment_14\Day11_Assignment_14\obj\Debug\Day11_Assignment_14.csproj.CoreCompileInputs.cache
+D:\C# Programme\Day11\Day11_Assignment_14\Day11_Assignment_14\obj\Debug\Day11_Assignment_14.exe
+D:\C# Programme\Day11\Day11_Assignment_14\Day11_Assignment_14\obj\Debug\Day11_Assignment_14.pdb
